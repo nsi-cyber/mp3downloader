@@ -1,10 +1,9 @@
-MP3 Downloader APP
-Project Image
+#MP3 Downloader APP
 
 MP3 Downloader APP is an application that allows users to download YouTube videos as .mp3 files.
 
 Features
-Built with Jetpack Compose, MVVM, Retrofit, OkHttp, Jsoup, Dagger, and Hilt.
+Built with Jetpack Compose, MVVM, Retrofit, OkHttp, Jsoup, Coroutines, Dagger, and Hilt.
 Define the download location and pass the YouTube link. The application will automatically download the .mp3 file based on the provided link.
 Utilizes coroutines for asynchronous programming, ensuring efficient and non-blocking operations.
 Features
@@ -27,5 +26,7 @@ Coroutines: Coroutines are integrated into the project for asynchronous programm
 User-Defined Download Location: Users have the flexibility to specify the location where the downloaded .mp3 files should be saved. This feature facilitates easy organization and access to the downloaded files.
 
 These features collectively empower MP3 Downloader APP to provide a seamless and efficient solution for downloading YouTube videos as .mp3 files. With its modern UI, robust architecture, and advanced functionalities, the application delivers an enhanced user experience.
+
+
 https://github.com/nsi-cyber/mp3downloader/assets/73956606/f0b7f601-4442-48b7-9f50-55a3028f366e
 
